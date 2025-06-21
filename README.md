@@ -25,12 +25,11 @@ C'était notre **première application Java complète**, d'où sa **simplicité 
 - 🏃‍♀️ Gestion des **épreuves** (nom, catégorie, participants, vainqueur)
 - 🕓 Planification des **sessions** (date, heure, lieu)
 - 📅 Visualisation du **planning global** des épreuves
-- ➕ Ajout et consultation des données depuis une interface **console**
+- ➕ Ajout et consultation des données 
 
 ## 🛠️ Technologies utilisées
 
 - **Langage** : Java (standard, sans framework)
-- **Interface** : Console (texte uniquement)
 - **Paradigme** : Programmation Orientée Objet (POO)
 
 ## 📌 Remarques
@@ -46,3 +45,5 @@ Ce projet est avant tout pédagogique. Il ne couvre pas tous les cas d’usage d
 - Projet réalisé dans le cadre du BUT Informatique - 1ère année
 - 📍 IUT d’Orsay
 - 📅 Finalisé en juin 2024
+
+## ⛓️‍💥 Voir la vidéo de la démo dans ce lien -> 
